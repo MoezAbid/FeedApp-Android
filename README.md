@@ -15,3 +15,8 @@ Additional information about the project description can be found in this report
 ![Screenshot 1](https://i.imgur.com/rTypxmq.png)
 ![Screenshot 2](https://i.imgur.com/ol2TL2O.png)
 ![Screenshot 3](https://i.imgur.com/1mujsZ0.png)
+
+
+### Technologies
+- Developed on Android Studio
+- Using Firebase as a BaaS
