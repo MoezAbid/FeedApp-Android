@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "1091739970510",
+    "firebase_url": "https://feedup-ht.firebaseio.com",
+    "project_id": "feedup-ht",
+    "storage_bucket": "feedup-ht.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091739970510:android:9f0776cca1f53c53",
+        "android_client_info": {
+          "package_name": "feedup.housetargaryen.com.feedup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091739970510-jpudhshs8flc99g9s76v6tsa8g56l8j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "feedup.housetargaryen.com.feedup",
+            "certificate_hash": "fe3db604f1a32a33c176b13d1740cd54fd2f8a78"
+          }
+        },
+        {
+          "client_id": "1091739970510-qtdum8i20bfpnaancpqhjuitlb3fph8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "feedup.housetargaryen.com.feedup",
+            "certificate_hash": "6cc3539b546958e7ee89c381e0b11e81d71ee148"
+          }
+        },
+        {
+          "client_id": "1091739970510-8sfogaf5kc50uhrgp6kuomofhgu9hi66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "feedup.housetargaryen.com.feedup",
+            "certificate_hash": "d9917a7ecb51cfc39c19e29a91c4199dbb406781"
+          }
+        },
+        {
+          "client_id": "1091739970510-tkhg4aa7eufrsosnuppjquud86k495b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "feedup.housetargaryen.com.feedup",
+            "certificate_hash": "e867907639a91cdc58eb819732aa2170e849e1db"
+          }
+        },
+        {
+          "client_id": "1091739970510-6glff1l5qt1gcm9ob2k1nibui5dnjaps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWASAPVJCgAsujbHWT5-WwMVLXxYxlBAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091739970510-6glff1l5qt1gcm9ob2k1nibui5dnjaps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

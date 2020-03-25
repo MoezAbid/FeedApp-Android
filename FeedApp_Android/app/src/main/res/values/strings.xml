@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FeedUp</string>
+    <string name="title_activity_page_accueil1">Accueil</string>
+    <string name="action_settings">Mes Annonces</string>
+    <string name="action_settings1">Mon Compte</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_page_accueil_navi_draw">PageAccueilNaviDraw</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_navi_draw">NaviDraw</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

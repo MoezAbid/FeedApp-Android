@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FeedApp.iml" filepath="$PROJECT_DIR$/FeedApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FeedApp.iml" filepath="$PROJECT_DIR$/.idea/FeedApp.iml" />
+      <module fileurl="file://D:/FeedApp/FeedApp.iml" filepath="D:/FeedApp/FeedApp.iml" />
+      <module fileurl="file://D:/FeedApp/FeedApp2.iml" filepath="D:/FeedApp/FeedApp2.iml" />
+      <module fileurl="file://D:/FeedApp/FeedApp3.iml" filepath="D:/FeedApp/FeedApp3.iml" />
+      <module fileurl="file://D:/FeedApp/FeedUp.iml" filepath="D:/FeedApp/FeedUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

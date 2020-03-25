@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="feedup.housetargaryen.com.feedup.Profil">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/ImageProfil"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+
+            android:layout_marginRight="140dp"/>
+
+        <Button
+            android:id="@+id/Convertir"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:layout_marginLeft="30dp"
+            android:background="@color/greenColor"
+            android:text="MODIFIER PROFIL"
+            android:textColor="@color/buttonTextColor"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="40dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nom "
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/NomProfil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prenom "
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/PrenomProfil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Adresse "
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/adresseProfil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CIN "
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/CinProfil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mail "
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/mailProfil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RIB "
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/RIBProfil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

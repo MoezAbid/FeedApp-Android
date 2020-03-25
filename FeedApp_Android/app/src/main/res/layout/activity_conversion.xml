@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="feedup.housetargaryen.com.feedup.Conversion"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Attention: Pour chaque 1 000 points vous aurez 1dt et vous pouvez convertir vos points appartir de 10 000 points"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vous Avez"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/NbrPoints" />
+
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/pts"
+        >
+        <RadioButton
+            android:id="@+id/pts10000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10 000" />
+        <RadioButton
+            android:id="@+id/pts20000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="20 000" />
+        <RadioButton
+            android:id="@+id/pts30000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="30 000"/>
+        <RadioButton
+            android:id="@+id/pts40000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="40 000" />
+        <RadioButton
+            android:id="@+id/pts50000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="50 000" />
+    </RadioGroup>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Message"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Convertir"
+        android:id="@+id/Convertir"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/date"/>
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+
+    <style name="GreenTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">#fff</item>
+        <item name="android:textColorPrimary">#fff</item>
+        <item name="android:background">@color/greenColor</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/greenColor</item>
+        <item name="colorAccent">@color/greenColor</item>
+        <item name="popupMenuStyle">@style/PopupMenu.Example</item>
+    </style>
+    <style name="PopupMenu.Example" parent="@style/Widget.AppCompat.Light.PopupMenu">
+        <item name="android:popupBackground">@color/white</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="popupMenuStyle">@style/PopupMenu.Example</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/bg_register</item>
+        <item name="colorControlActivated">@color/bg_register</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="PopupMenuStyle" parent="Theme.AppCompat.Light">
+
+        <item name="android:background">#CECECE</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+
+</resources>
